@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">🌟 ¡Hola! Soy Stephanie</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Cuento con experiencia en la implementación de arquitecturas basadas en AWS, en las que he utilizado servicios como Amazon ECR, AWS IAM, Amazon SageMaker y Amazon S3. Algunas de mis habilidades técnicas más destacadas incluyen el manejo de Active Directory, Docker, Jira, Kubernetes, MySQL, Sistemas Operativos, Virtualización y WordPress.</p>
+<p align="left">💻 Cuento con experiencia en la implementación de arquitecturas basadas en AWS, en las que he utilizado servicios como Amazon ECR, AWS IAM, Amazon SageMaker y Amazon S3. Algunas de mis habilidades técnicas incluyen el manejo de Active Directory, Docker, Jira, Kubernetes, MySQL, Sistemas Operativos, Virtualización y WordPress.</p>
 
 ###
 
